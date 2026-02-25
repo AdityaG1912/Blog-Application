@@ -1,4 +1,4 @@
-<h1 align="center">📝 Blog Application</h1>
+<h1 align="center">📝 Blog Application (Backend)</h1> 
 
 <p align="center">
   <b>Java • Spring Boot • PostgreSQL • Spring Security • JWT • JUnit • RESTful APIs</b><br/>
